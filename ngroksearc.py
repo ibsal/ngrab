@@ -11,7 +11,7 @@ class Test(object):
     		return 0
     	except:
     		return 1
-def generate():
+def generate():  #Generates codes sequantially
 	outs = []
 	for i in range(10000, 20000):
 		if(i<10):
@@ -25,7 +25,7 @@ def generate():
 		outs.append(i)
 	return outs
 
-def randomGenerate(rng):
+def randomGenerate(rng): #Generates codes randomly 
 	outs = []
 	i = 0
 	while i<rng:
@@ -42,8 +42,6 @@ def randomGenerate(rng):
 		i += 1
 	return outs
 
-
-	#returns a list of 5 digit codes
 codes = generate()
 openServers = []
 for i in codes:
@@ -63,20 +61,3 @@ for i in codes:
 	openServers.append(str(initialDigit) + ".tcp.ngrok.io:" + str(d))
 
 print(openServers)
-
-
-#server = MinecraftServer.lookup("0.tcp.ngrok.io:17716")
-
-# 'status' is supported by all Minecraft servers that are version 1.7 or higher.
-#status = server.status()
-#print("The server has {0} players and replied in {1} ms".format(status.players.online, status.latency))
-
-# 'ping' is supported by all Minecraft servers that are version 1.7 or higher.
-# It is included in a 'status' call, but is exposed separate if you do not require the additional info.
-#latency = server.ping()
-#print("The server replied in {0} ms".format(latency))
-
-# 'query' has to be enabled in a servers' server.properties file.
-# It may give more information than a ping, such as a full player list or mod information.
-#query = server.query()
-#print("The serve7r has the following players online: {0}".format(", ".join(query.players.names)))
