@@ -1,0 +1,526 @@
+0.tcp.ngrok.io:10172
+The server has 0 players and replied in 72.693 ms
+
+
+0.tcp.ngrok.io:10212
+The server has 0 players and replied in 80.623 ms
+
+
+0.tcp.ngrok.io:10249
+The server has 5 players and replied in 110.451 ms
+
+
+0.tcp.ngrok.io:10281
+The server has 0 players and replied in 99.568 ms
+
+
+0.tcp.ngrok.io:10576
+The server has 0 players and replied in 132.411 ms
+
+
+0.tcp.ngrok.io:10779
+The server has 0 players and replied in 105.686 ms
+
+
+0.tcp.ngrok.io:10848
+The server has 0 players and replied in 151.933 ms
+
+
+0.tcp.ngrok.io:11089
+The server has 0 players and replied in 73.212 ms
+
+
+0.tcp.ngrok.io:11220
+The server has 0 players and replied in 78.477 ms
+
+
+0.tcp.ngrok.io:11422
+The server has 0 players and replied in 105.256 ms
+
+
+0.tcp.ngrok.io:11491
+The server has 0 players and replied in 102.858 ms
+
+
+0.tcp.ngrok.io:11523
+The server has 0 players and replied in 101.175 ms
+
+
+0.tcp.ngrok.io:11527
+The server has 0 players and replied in 200.659 ms
+
+
+0.tcp.ngrok.io:11560
+The server has 0 players and replied in 73.161 ms
+
+
+0.tcp.ngrok.io:11786
+The server has 0 players and replied in 201.389 ms
+
+
+0.tcp.ngrok.io:11945
+The server has 0 players and replied in 92.705 ms
+
+
+0.tcp.ngrok.io:11951
+The server has 0 players and replied in 145.307 ms
+
+
+0.tcp.ngrok.io:11975
+The server has 0 players and replied in 74.409 ms
+
+
+0.tcp.ngrok.io:11995
+The server has 0 players and replied in 100.08 ms
+
+
+0.tcp.ngrok.io:12048
+The server has 2 players and replied in 108.317 ms
+
+
+0.tcp.ngrok.io:12179
+The server has 1 players and replied in 74.111 ms
+
+
+0.tcp.ngrok.io:12194
+The server has 1 players and replied in 78.148 ms
+
+
+0.tcp.ngrok.io:12410
+The server has 0 players and replied in 124.271 ms
+
+
+0.tcp.ngrok.io:12450
+The server has 0 players and replied in 61.897 ms
+
+
+0.tcp.ngrok.io:12670
+The server has 2 players and replied in 145.825 ms
+
+
+0.tcp.ngrok.io:13027
+The server has 0 players and replied in 65.723 ms
+
+
+0.tcp.ngrok.io:13036
+The server has 0 players and replied in 129.12 ms
+
+
+0.tcp.ngrok.io:13244
+The server has 1 players and replied in 132.598 ms
+
+
+0.tcp.ngrok.io:13355
+The server has 0 players and replied in 70.298 ms
+
+
+0.tcp.ngrok.io:13385
+The server has 0 players and replied in 77.901 ms
+
+
+0.tcp.ngrok.io:13393
+The server has 3 players and replied in 98.345 ms
+
+
+0.tcp.ngrok.io:13416
+The server has 0 players and replied in 80.511 ms
+
+
+0.tcp.ngrok.io:13478
+The server has 1 players and replied in 68.13 ms
+
+
+0.tcp.ngrok.io:13514
+The server has 0 players and replied in 84.526 ms
+
+
+0.tcp.ngrok.io:13574
+The server has 0 players and replied in 69.175 ms
+
+
+0.tcp.ngrok.io:13701
+The server has 1 players and replied in 87.568 ms
+
+
+0.tcp.ngrok.io:13737
+The server has 0 players and replied in 75.937 ms
+
+
+0.tcp.ngrok.io:13776
+The server has 0 players and replied in 78.568 ms
+
+
+0.tcp.ngrok.io:13820
+The server has 0 players and replied in 129.967 ms
+
+
+0.tcp.ngrok.io:13874
+The server has 0 players and replied in 138.27 ms
+
+
+0.tcp.ngrok.io:13949
+The server has 0 players and replied in 84.553 ms
+
+
+0.tcp.ngrok.io:13998
+The server has 0 players and replied in 89.853 ms
+
+
+0.tcp.ngrok.io:14054
+The server has 0 players and replied in 90.014 ms
+
+
+0.tcp.ngrok.io:14134
+The server has 2 players and replied in 102.178 ms
+
+
+0.tcp.ngrok.io:14157
+The server has 0 players and replied in 83.488 ms
+
+
+0.tcp.ngrok.io:14221
+The server has 3 players and replied in 117.733 ms
+
+
+0.tcp.ngrok.io:14400
+The server has 4 players and replied in 102.319 ms
+
+
+0.tcp.ngrok.io:14553
+The server has 2 players and replied in 143.644 ms
+
+
+0.tcp.ngrok.io:14744
+The server has 0 players and replied in 96.602 ms
+
+
+0.tcp.ngrok.io:14758
+The server has 0 players and replied in 116.348 ms
+
+
+0.tcp.ngrok.io:14777
+The server has 2 players and replied in 149.16 ms
+
+
+0.tcp.ngrok.io:14833
+The server has 3 players and replied in 207.021 ms
+
+
+0.tcp.ngrok.io:15033
+The server has 1 players and replied in 113.385 ms
+
+
+0.tcp.ngrok.io:15176
+The server has 0 players and replied in 118.88 ms
+
+
+0.tcp.ngrok.io:15272
+The server has 0 players and replied in 168.979 ms
+
+
+0.tcp.ngrok.io:15308
+The server has 2 players and replied in 101.919 ms
+
+
+0.tcp.ngrok.io:15359
+The server has 0 players and replied in 55.685 ms
+
+
+0.tcp.ngrok.io:15394
+The server has 0 players and replied in 112.607 ms
+
+
+0.tcp.ngrok.io:15399
+The server has 2 players and replied in 68.941 ms
+
+
+0.tcp.ngrok.io:15423
+The server has 0 players and replied in 89.615 ms
+
+
+0.tcp.ngrok.io:15482
+The server has 2 players and replied in 85.926 ms
+
+
+0.tcp.ngrok.io:15490
+The server has 0 players and replied in 95.526 ms
+
+
+0.tcp.ngrok.io:15496
+The server has 1 players and replied in 89.871 ms
+
+
+0.tcp.ngrok.io:15563
+The server has 1 players and replied in 154.71 ms
+
+
+0.tcp.ngrok.io:15628
+The server has 0 players and replied in 68.342 ms
+
+
+0.tcp.ngrok.io:15642
+The server has 0 players and replied in 91.019 ms
+
+
+0.tcp.ngrok.io:16227
+The server has 1 players and replied in 134.165 ms
+
+
+0.tcp.ngrok.io:16293
+The server has 0 players and replied in 112.705 ms
+
+
+0.tcp.ngrok.io:16376
+The server has 1 players and replied in 144.675 ms
+
+
+0.tcp.ngrok.io:16412
+The server has 0 players and replied in 133.158 ms
+
+
+0.tcp.ngrok.io:16462
+The server has 0 players and replied in 74.108 ms
+
+
+0.tcp.ngrok.io:16680
+The server has 0 players and replied in 151.786 ms
+
+
+0.tcp.ngrok.io:16952
+The server has 1 players and replied in 74.991 ms
+
+
+0.tcp.ngrok.io:17017
+The server has 0 players and replied in 78.876 ms
+
+
+0.tcp.ngrok.io:17064
+The server has 0 players and replied in 79.141 ms
+
+
+0.tcp.ngrok.io:17093
+The server has 0 players and replied in 73.253 ms
+
+
+0.tcp.ngrok.io:17098
+The server has 1 players and replied in 99.017 ms
+
+
+0.tcp.ngrok.io:17239
+The server has 2 players and replied in 135.809 ms
+
+
+0.tcp.ngrok.io:17265
+The server has 0 players and replied in 146.785 ms
+
+
+0.tcp.ngrok.io:17376
+The server has 0 players and replied in 88.912 ms
+
+
+0.tcp.ngrok.io:17492
+The server has 2 players and replied in 83.984 ms
+
+
+0.tcp.ngrok.io:17520
+The server has 0 players and replied in 101.046 ms
+
+
+0.tcp.ngrok.io:17567
+The server has 3 players and replied in 141.459 ms
+
+
+0.tcp.ngrok.io:17611
+The server has 2 players and replied in 87.499 ms
+
+
+0.tcp.ngrok.io:17636
+The server has 0 players and replied in 155.886 ms
+
+
+0.tcp.ngrok.io:17672
+The server has 0 players and replied in 54.35 ms
+
+
+0.tcp.ngrok.io:17673
+The server has 0 players and replied in 85.49 ms
+
+
+0.tcp.ngrok.io:17771
+The server has 0 players and replied in 89.426 ms
+
+
+0.tcp.ngrok.io:17778
+The server has 0 players and replied in 179.109 ms
+
+
+0.tcp.ngrok.io:17798
+The server has 2 players and replied in 80.394 ms
+
+
+0.tcp.ngrok.io:17920
+The server has 0 players and replied in 69.494 ms
+
+
+0.tcp.ngrok.io:17933
+The server has 0 players and replied in 79.064 ms
+
+
+0.tcp.ngrok.io:18052
+The server has 1 players and replied in 106.051 ms
+
+
+0.tcp.ngrok.io:18056
+The server has 0 players and replied in 73.976 ms
+
+
+0.tcp.ngrok.io:18082
+The server has 3 players and replied in 79.925 ms
+
+
+0.tcp.ngrok.io:18121
+The server has 0 players and replied in 93.032 ms
+
+
+0.tcp.ngrok.io:18134
+The server has 2 players and replied in 86.916 ms
+
+
+0.tcp.ngrok.io:18165
+The server has 0 players and replied in 79.505 ms
+
+
+0.tcp.ngrok.io:18217
+The server has 0 players and replied in 105.944 ms
+
+
+0.tcp.ngrok.io:18330
+The server has 0 players and replied in 78.929 ms
+
+
+0.tcp.ngrok.io:18336
+The server has 0 players and replied in 123.178 ms
+
+
+0.tcp.ngrok.io:18513
+The server has 3 players and replied in 122.346 ms
+
+
+0.tcp.ngrok.io:18575
+The server has 0 players and replied in 72.029 ms
+
+
+0.tcp.ngrok.io:18736
+The server has 0 players and replied in 162.489 ms
+
+
+0.tcp.ngrok.io:18758
+The server has 2 players and replied in 69.06 ms
+
+
+0.tcp.ngrok.io:18771
+The server has 4 players and replied in 152.034 ms
+
+
+0.tcp.ngrok.io:18773
+The server has 0 players and replied in 172.304 ms
+
+
+0.tcp.ngrok.io:18812
+The server has 2 players and replied in 113.217 ms
+
+
+0.tcp.ngrok.io:18887
+The server has 0 players and replied in 85.968 ms
+
+
+0.tcp.ngrok.io:18964
+The server has 3 players and replied in 68.557 ms
+
+
+0.tcp.ngrok.io:19009
+The server has 2 players and replied in 68.909 ms
+
+
+0.tcp.ngrok.io:19042
+The server has 0 players and replied in 77.256 ms
+
+
+0.tcp.ngrok.io:19079
+The server has 1 players and replied in 104.177 ms
+
+
+0.tcp.ngrok.io:19156
+The server has 2 players and replied in 146.734 ms
+
+
+0.tcp.ngrok.io:19330
+The server has 0 players and replied in 109.958 ms
+
+
+0.tcp.ngrok.io:19389
+The server has 3 players and replied in 72.387 ms
+
+
+0.tcp.ngrok.io:19436
+The server has 0 players and replied in 83.582 ms
+
+
+0.tcp.ngrok.io:19520
+The server has 0 players and replied in 56.733 ms
+
+
+0.tcp.ngrok.io:19524
+The server has 5 players and replied in 105.63 ms
+
+
+0.tcp.ngrok.io:19548
+The server has 0 players and replied in 153.137 ms
+
+
+0.tcp.ngrok.io:19556
+The server has 3 players and replied in 111.38 ms
+
+
+0.tcp.ngrok.io:19561
+The server has 0 players and replied in 80.497 ms
+
+
+0.tcp.ngrok.io:19645
+The server has 2 players and replied in 121.546 ms
+
+
+0.tcp.ngrok.io:19667
+The server has 0 players and replied in 159.024 ms
+
+
+0.tcp.ngrok.io:19785
+The server has 0 players and replied in 77.259 ms
+
+
+0.tcp.ngrok.io:19833
+The server has 2 players and replied in 81.979 ms
+
+
+0.tcp.ngrok.io:19908
+The server has 0 players and replied in 98.183 ms
+
+
+0.tcp.ngrok.io:19953
+The server has 0 players and replied in 188.789 ms
+
+
+0.tcp.ngrok.io:24858
+The server has 0 players and replied in 114.617 ms
+
+
+0.tcp.ngrok.io:25607
+The server has 0 players and replied in 58.587 ms
+
+
+0.tcp.ngrok.io:27763
+The server has 0 players and replied in 86.812 ms
+
+
+0.tcp.ngrok.io:27870
+The server has 1 players and replied in 84.972 ms

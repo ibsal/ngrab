@@ -4,8 +4,15 @@ import time
 from timeout import timeout
 
 class Test(object):
-    @timeout(0.25)
+    @timeout(0.15)
     def test_a(self, server):
+    	try:
+    		status = server.ping()
+    		return 0
+    	except:
+    		return 1
+    @timeout(0.25)
+    def test_b(self, server):
     	try:
     		status = server.status()
     		return 0
@@ -46,16 +53,18 @@ codes = generate()
 openServers = []
 for i in codes:
 	d = i
-	initialDigit = 2
-	print(str(initialDigit) + ".tcp.ngrok.io:" + str(d))
+	initialDigit = 8
+	#print(str(initialDigit) + ".tcp.ngrok.io:" + str(d))
 	server = MinecraftServer(str(initialDigit) + ".tcp.ngrok.io", int(i))
 	try:
 		t = Test()
 		work = t.test_a(server)
+	except:
+		continue
+	try:
 		status = server.status()
 	except:
 		continue
-	status = server.status()
 	print(str(initialDigit) + ".tcp.ngrok.io:" + str(i))
 	print("The server has {0} players and replied in {1} ms".format(status.players.online, status.latency))
 	print("\n")
