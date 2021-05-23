@@ -20,7 +20,7 @@ class Test(object):
     		return 1
 def generate():  #Generates codes sequantially
 	outs = []
-	for i in range(10000, 50000):
+	for i in range(10000, 20000):
 		if(i<10):
 			i = "0000" + str(i)
 		elif(i<100):
@@ -36,7 +36,7 @@ def randomGenerate(rng): #Generates codes randomly
 	outs = []
 	i = 0
 	while i<rng:
-		key = random.randint(0, 65536)
+		key = random.randint(0, 20000)
 		if(key<10):
 			key = "0000" + str(key)
 		elif(key<100):
@@ -67,7 +67,6 @@ for i in codes:
 		continue
 	print(str(initialDigit) + ".tcp.ngrok.io:" + str(i))
 	print("The server has {0} players and replied in {1} ms".format(status.players.online, status.latency))
-	print("\n")
 	openServers.append(str(initialDigit) + ".tcp.ngrok.io:" + str(d))
 
 print(openServers)
